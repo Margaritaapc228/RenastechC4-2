@@ -4,7 +4,7 @@ import javax.crypto.spec.PSource;
 
 public class Inheritance12 {
     Inheritance12(){
-        System.out.println("Hello-Hola-");
+        System.out.println("Hello-Hola-Slav");
     }
 
     Inheritance12(int a){
