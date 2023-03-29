@@ -16,7 +16,7 @@ public class Inheritance12 {
     public static void main(String[] args) {
 
         new Inheritance12(10);
-        new Inheritance12("Hello");
+        new Inheritance12("Hello Word");
         new Inheritance12();
     }
 }
